@@ -1,2 +1,2 @@
-# A8-send-stickers
-Use Firebase Realtime Database to create an app to send a sticker to a specific friend who also has the app. 
+# Team_5_A8_Stick_It_To_Em
+Summer 2022 CS5520 homework 8.
