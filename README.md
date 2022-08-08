@@ -1,3 +1,6 @@
-# Team_5_A8_Stick_It_To_Em
-Summer 2022 CS5520 homework 8.
-![A8-send stickers](https://user-images.githubusercontent.com/80186905/183494427-758f17d4-e53a-49b1-adc4-ba4b3504fdfa.MOV)
+Summer 2022 CS5520 homework 8.<br/>
+Use Firebase Realtime Database to create an app to send a sticker to a specific friend who also has the app. 
+
+
+https://user-images.githubusercontent.com/80186905/183496499-7742e0b7-5ee7-488e-b438-dd17c2507f6e.MOV
+
